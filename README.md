@@ -1,4 +1,4 @@
-# 🚀 Algorithms Implementation in Jupyter Notebooks
+# 🚀 The Algorithms Implementation in Jupyter Notebooks
 
 This repository contains implementations of various algorithms in both Python and JavaScript using Jupyter Notebooks.
 
